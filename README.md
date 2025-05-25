@@ -28,7 +28,7 @@ educase-nodejs-assignment/
 
 ## Setup
 ```bash
-git clone [https://github.com/your-username/educase-nodejs-assignment.git](https://github.com/Malhar-Bhensjariya/Educase-NodeJs-Assignment.git)
+git clone https://github.com/your-username/educase-nodejs-assignment.git
 cd educase-nodejs-assignment/backend
 npm install
 ```
